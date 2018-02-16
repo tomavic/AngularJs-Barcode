@@ -1,14 +1,14 @@
 {
-  "name": "angular-barcode",
-  "description": "angular barcode",
-  "version": "0.0.4",
+  "name": "angularjs-barcode",
+  "description": "angular js barcode directive",
+  "version": "1.0.0",
   "filename": "barcode.min.js",
   "main": "./dist/barcode.min.js",
-  "homepage": "https://github.com/ryanmc2033/angular-barcode",
+  "homepage": "https://github.com/tomavic/AngularJs-Barcode",
   "author": "Ryan McLaughlin <ryanmc@justechn.com>",
   "repository": {
     "type": "git",
-    "url": "git://github.com/ryanmc2033/angular-barcode.git"
+    "url": "git://github.com/tomavic/AngularJs-Barcodegit"
   },
   "dependencies": {
     "grunt": "~0.4.5"
@@ -26,8 +26,8 @@
   ],
   "maintainers": [
     {
-      "name": "Ryan McLaughlin",
-      "website": "http://www.justechn.com/"
+      "name": "TOoma",
+      "website": ""
     }
   ],
   "scripts": {
