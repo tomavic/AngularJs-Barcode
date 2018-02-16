@@ -1,5 +1,5 @@
 {
-  "name": "angularjs-barcode",
+  "name": "angular-barcode",
   "description": "angular js barcode directive",
   "version": "1.0.0",
   "filename": "barcode.min.js",
